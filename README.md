@@ -1,9 +1,5 @@
 # 🧠 Anotações CWI | Level 1 
 
-Este é um repositório colaborativo com anotações, resumos e materiais de estudo.  
- 💡  
----
-
 ## 🚀 Como contribuir
 
 ### 1️⃣ Faça um fork do repositório
@@ -14,14 +10,14 @@ No seu terminal, clone o repositório que acabou de criar:
 ```bash
 git clone https://github.com/seu-usuario/notes-open-source.git
 ```
-### 2️⃣ Crie a branch ( De acordo com o conteúdo )
+### 3️⃣ Crie a branch ( De acordo com o conteúdo )
 ```bash
 git checkout -b add-notes-sobre-javascript
 ```
-### 2️⃣ Faça o commit pra sua branch
+### 4️⃣ Faça o commit pra sua branch
 ```bash
 git add .
 git commit -m "Adiciona notas sobre funções em javascript"
 git push origin add-notes-sobre-javascript
 ```
-### Depois é só abrir o Pull Request nesse repositório 
+### 5️⃣ Depois é só abrir o Pull Request nesse repositório 
